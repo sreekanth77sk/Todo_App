@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+}
+.add-todo-form{
+    background-color: rgb(58, 47, 47);
+    padding: 15px;
+    margin:15px 10vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px;
+    border-style: solid;
+    border-color: aqua;
+    
+}
+.heading{
+    padding: 0px 30px;
+    margin: 5px;
+    color: aqua;
+    text-decoration: underline;
+}
+.input-form{
+    background-color: aqua;
+    padding:  30px;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 25vh;
+    border-left-style: solid;
+    border-left-width: 15px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-color: rgb(94, 96, 53);
+    
+}
+
+.tabs{
+    display: flex;
+    justify-content: space-between;
+    margin: none;
+    padding: 5px 15px;
+    
+}
+.tab{
+    margin: 0px 15px;
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+}
+.tab-checked{
+    background-color: aqua;
+}
+.list-card{
+    background-color: rgb(58, 47, 47);
+    height: auto;
+    padding: 15px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 10vw;
+    border: 1px;
+    border-style: solid;
+    border-color: aqua;
+}
+.titleInput{
+    width:20vw ;
+    height: 20px;
+}
+.descriptionInput{
+    width: 20vw;
+    height: 30px;
+
+}
