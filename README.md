@@ -1,3 +1,16 @@
+# Todo's Application 
+
+ ## User can add Tasks which wille be stored in Local storage.
+ ## User can delete particular task by clicking on the delete icon.
+ ## If the task has completed, user can move it to the completed tasks list.
+ ## User can delete the tasks that completed too.
+
+# TO RUN THIS APPLICATION RUN THE BELOW COMMANDS IN THE PROJECT FOLDER
+ $ npm i   (Installs Node Package Manager.)
+ $ npm start    (Runs the Application in the browser.)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
